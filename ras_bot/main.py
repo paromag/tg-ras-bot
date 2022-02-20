@@ -3,7 +3,7 @@ import telebot
 
 
 # Создаем экземпляр бота
-bot = telebot.TeleBot('5147137754:AAGqmo5wb4gCuZQsZGaSsRY9Og5_wjKB7pg')
+bot = telebot.TeleBot('TOKEN_HERE')
 
  
 
